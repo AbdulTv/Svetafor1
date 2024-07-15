@@ -1,0 +1,32 @@
+body {background-color: rgb(240, 231, 231);}
+.div1 {background-color: blue; width: 400px; margin: 0 auto;}
+.text1 {color: aliceblue; text-align: center;}
+
+.box-1 {background-color: black;
+border-radius: 10%;
+width: 225px;
+height: 430px; 
+margin: 0 auto;
+padding: 28px;}
+
+.box-2 
+{background-color: red;
+width:  115px;
+height: 115px;
+border-radius: 50%;
+margin: 20px auto;}
+
+.box-3 
+{background-color: yellow;
+width:  115px;
+height: 115px;
+border-radius: 50%;
+margin: 20px auto;}
+
+.box-4 
+{background-color: green;
+width:  115px;
+height: 115px;
+border-radius: 50%;
+margin: 20px auto;}
+
